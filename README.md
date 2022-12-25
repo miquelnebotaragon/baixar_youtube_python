@@ -26,5 +26,5 @@ user@deb11:~$ sudo apt install python3
 # Descàrrega i execució
 Copiarem el codi següent 👇 a un arxiu amb extensió **.py** al nostre ordinador (per exemple **descarregar_youtube.py**). Cal informar que la descàrrega dels vídeos, per defecte, es farà al mateix directori on es trobi l’arxiu de Python, per això, hem d’assegurar-nos que disposi d’espai suficient pel seu emmagatzematge.
 
-Descàrrega de l'arxiu .py des d'aquí:
-https://github.com/miquelnebotaragon/baixar_youtube_python/releases
+Descàrrega de l'arxiu .py des d'<a href="https://github.com/miquelnebotaragon/baixar_youtube_python/blob/main/baixar_youtube.py" target="_blank">aquí</a>.
+
