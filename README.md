@@ -14,10 +14,9 @@
 Tot i que existeixen infinitat de solucions en línia per descarregar vídeos amb llicenciament Creative Commons des de YouTube, sempre és bona idea disposar d’un sistema senzill i sense dependència de tercers. En el següent tutorial et present com fer-ho mitjançant un mòdul de predissenyat de Python.
 
 # Abans de començar
-Haurem de tenir instal·lat Python en el nostre ordinador. Verificarem si el tenim instal·lat i la seva versió mitjançant la comanda següent: 
+Haurem de tenir instal·lat Python en el nostre ordinador. Verificarem si disposam d'ell i la seva versió mitjançant la comanda següent a dins el Terminal (Ctrl+Alt+T): 
 
-Run command:
-  `sudo python3 --version`
+  `python3 --version`
   
 Run command:
   `sudo apt install ./slimbookbattery_4.0.0_all.deb`
