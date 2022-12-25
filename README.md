@@ -8,7 +8,7 @@
     <img alt="Twitter: Miquel Nebot" src="https://img.shields.io/twitter/follow/miquelnebot.svg?style=social" />
   </a>
 </p>
-<div align="center"><img src="https://user-images.githubusercontent.com/57944755/209482150-0c17a536-6702-4626-aa3f-ec4681ee3f3e.png"></div>
+<div align="center"><img src="https://user-images.githubusercontent.com/57944755/209482485-0c04e9a6-97a2-4a57-be2f-aeecf061cd37.png"></div>
 
 # Introducció
 Tot i que existeixen infinitat de solucions en línia per descarregar vídeos amb llicenciament Creative Commons des de YouTube, sempre és bona idea disposar d’un sistema senzill i sense dependència de tercers. En el següent tutorial et present com fer-ho mitjançant un mòdul de predissenyat de Python.
@@ -23,3 +23,4 @@ Run command:
 
 
 
+![baixar_youtube_python_banner]()
