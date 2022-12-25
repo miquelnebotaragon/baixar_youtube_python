@@ -17,6 +17,10 @@ Tot i que existeixen infinitat de solucions en línia per descarregar vídeos am
 Haurem de tenir instal·lat Python en el nostre ordinador. Verificarem si el tenim instal·lat i la seva versió mitjançant la comanda següent: 
 
 Run command:
-'sudo python3 --version'
+  `sudo python3 --version`
+  
+Run command:
+  `sudo apt install ./slimbookbattery_4.0.0_all.deb`
+
 
 
