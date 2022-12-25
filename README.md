@@ -16,11 +16,15 @@ Tot i que existeixen infinitat de solucions en línia per descarregar vídeos am
 # Abans de començar
 Haurem de tenir instal·lat Python en el nostre ordinador. Verificarem si disposam d'ell i la seva versió mitjançant la comanda següent a dins el Terminal (Ctrl+Alt+T): 
 
-  `python3 --version`
-  
-Run command:
-  `sudo apt install ./slimbookbattery_4.0.0_all.deb`
+```console
+user@deb11:~$ python3 --version
+```
+Si no el tenim instal·lat, el podem aconseguir fàcilment mitjançant la comanda:
+```console
+user@deb11:~$ sudo apt install python3
+```
+# Descàrrega i execució
+Copiarem el codi següent 👇 a un arxiu amb extensió **.py** al nostre ordinador (per exemple **descarregar_youtube.py**). Cal informar que la descàrrega dels vídeos, per defecte, es farà al mateix directori on es trobi l’arxiu de Python, per això, hem d’assegurar-nos que disposi d’espai suficient pel seu emmagatzematge.
 
-
-
-![baixar_youtube_python_banner]()
+Descàrrega de l'arxiu .py des d'aquí:
+https://github.com/miquelnebotaragon/baixar_youtube_python/releases
