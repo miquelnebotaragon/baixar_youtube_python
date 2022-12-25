@@ -8,14 +8,15 @@
     <img alt="Twitter: Miquel Nebot" src="https://img.shields.io/twitter/follow/miquelnebot.svg?style=social" />
   </a>
 </p>
-<div align="center"><img src="https://user-images.githubusercontent.com/57944755/209481789-cbeb794c-edc0-4c87-a997-4814af689da2.png"></div>
+<div align="center"><img src="https://user-images.githubusercontent.com/57944755/209482150-0c17a536-6702-4626-aa3f-ec4681ee3f3e.png"></div>
 
 # Introducció
-Tot i que existeixen infinitat de solucions en línia per descarregar vídeos amb llicenciament Creative Commons des de YouTube, sempre és bona idea disposar d’un sistema senzill i sense dependència de tercers per fer-ho. En el següent tutorial et present com fer-ho mitjançant un mòdul de predissenyat de Python.
+Tot i que existeixen infinitat de solucions en línia per descarregar vídeos amb llicenciament Creative Commons des de YouTube, sempre és bona idea disposar d’un sistema senzill i sense dependència de tercers. En el següent tutorial et present com fer-ho mitjançant un mòdul de predissenyat de Python.
 
 # Abans de començar
-Haurem de tenir instal·lat Python en el nostre ordinador:
+Haurem de tenir instal·lat Python en el nostre ordinador. Verificarem si el tenim instal·lat i la seva versió mitjançant la comanda següent: 
 
 Run command:
 'sudo python3 --version'
+
 
