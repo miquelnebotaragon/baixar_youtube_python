@@ -25,8 +25,13 @@ user@deb11:~$ sudo apt install python3
 ```
 # 👇 Descàrrega i execució
 Copiarem el codi següent 👇 a un arxiu amb extensió **.py** al nostre ordinador (per exemple **descarregar_youtube.py**). Cal informar que la descàrrega dels vídeos, per defecte, es farà al mateix directori on es trobi l’arxiu de Python, per això, hem d’assegurar-nos que disposi d’espai suficient pel seu emmagatzematge.
+<p></p>📝 Descàrrega de l'arxiu .py des d'<a href="https://github.com/miquelnebotaragon/baixar_youtube_python/blob/main/baixar_youtube.py" target="_blank">aquí</a>.
 
-📝 Descàrrega de l'arxiu .py des d'<a href="https://github.com/miquelnebotaragon/baixar_youtube_python/blob/main/baixar_youtube.py" target="_blank">aquí</a>.
+# 🛰️ Baixar ràpid
+En el present tutorial disposam també d'una versió ràpida per a la descàrrega dels vídeos sense missatges de confirmació i en una única instrucció a través de la consola. Baixarem l'<a href="https://github.com/miquelnebotaragon/baixar_youtube_python/blob/main/baixar_youtube_rapid.py" target="_blank">arxiu</a> **descarrega_youtube_rapid.py** i l'executarem a través del terminal afegint-hi com a 1r i únic argument el vídeo a descarregar. Per exemple:
+```console
+user@deb11:~/Downloads$ sudo python3 baixar_youtube_rapid.py https://youtu.be/i7Y7DnBx4X4
+```
 
 # ➕ Informació
 1️⃣ L'arxiu **.py** ha estat comentat al detall (#) per tal de possibilitar l'anàlisi del seu funcionament.<p></p>
