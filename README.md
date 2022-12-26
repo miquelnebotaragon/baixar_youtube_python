@@ -24,13 +24,17 @@ Si no el tenim instal·lat, el podem aconseguir fàcilment mitjançant la comand
 user@deb11:~$ sudo apt install python3
 ```
 # 👇 Descàrrega i execució
-Copiarem el codi següent 👇 a un arxiu amb extensió **.py** al nostre ordinador (per exemple **descarregar_youtube.py**). Cal informar que la descàrrega dels vídeos, per defecte, es farà al mateix directori on es trobi l’arxiu de Python, per això, hem d’assegurar-nos que disposi d’espai suficient pel seu emmagatzematge.
+Copiarem el codi següent 👇 a un arxiu amb extensió **.py** al nostre ordinador (per exemple **baixar_youtube.py**). Cal informar que la descàrrega dels vídeos, per defecte, es farà al mateix directori on es trobi l’arxiu de Python, per això, hem d’assegurar-nos que disposi d’espai suficient pel seu emmagatzematge.
 <p></p>📝 Descàrrega de l'arxiu .py des d'<a href="https://github.com/miquelnebotaragon/baixar_youtube_python/blob/main/baixar_youtube.py" target="_blank">aquí</a>.
 
 # 🛰️ Baixar ràpid
-En el present tutorial disposam també d'una versió ràpida per a la descàrrega dels vídeos sense missatges de confirmació i en una única instrucció a través de la consola. Baixarem l'<a href="https://github.com/miquelnebotaragon/baixar_youtube_python/blob/main/baixar_youtube_rapid.py" target="_blank">arxiu</a> **descarrega_youtube_rapid.py** i l'executarem a través del terminal afegint-hi com a 1r i únic argument el vídeo a descarregar. Per exemple:
+En el present tutorial disposam també d'una versió ràpida per a la descàrrega dels vídeos sense missatges de confirmació i en una única instrucció a través de la consola. Baixarem l'<a href="https://github.com/miquelnebotaragon/baixar_youtube_python/blob/main/baixar_youtube_rapid.py" target="_blank">arxiu</a> **baixar_youtube_rapid.py** i l'executarem a través del terminal afegint-hi com a 1r i únic argument el vídeo a descarregar. Per exemple:
 ```console
 user@deb11:~/Downloads$ sudo python3 baixar_youtube_rapid.py https://youtu.be/i7Y7DnBx4X4
+```
+Cal recordar que el vídeo es descarregarà al mateix directori on tenim allotjat l'arxiu de Python (a l'exemple anterior 👆 a la carpeta de baixades). Si volem modificar aquest paràmetre senzillament farem el canvi a la darrera línia del codi afegint la ruta completa de la nova ubicació.
+ ```
+youtube_download.download('/home/mnebot/Video/descarrega_youtube')
 ```
 
 # ➕ Informació
