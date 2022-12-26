@@ -32,7 +32,7 @@ En el present tutorial disposam també d'una versió ràpida per a la descàrreg
 ```console
 user@deb11:~/Downloads$ sudo python3 baixar_youtube_rapid.py https://youtu.be/i7Y7DnBx4X4
 ```
-Cal recordar que el vídeo es descarregarà al mateix directori on tenim allotjat l'arxiu de Python (a l'exemple anterior 👆 a la carpeta de baixades). Si volem modificar aquest paràmetre senzillament farem el canvi a la darrera línia del codi afegint la ruta completa de la nova ubicació.
+Cal recordar que el vídeo es descarregarà al mateix directori on tenim allotjat l'arxiu de Python (a l'exemple anterior 👆 a la carpeta de baixades). Si volem modificar aquest paràmetre, senzillament farem el canvi a la darrera línia del codi afegint la ruta completa de la nova ubicació.
  ```
 youtube_download.download('/home/mnebot/Video/descarrega_youtube')
 ```
